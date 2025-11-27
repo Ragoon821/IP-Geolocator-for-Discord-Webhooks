@@ -1,29 +1,20 @@
-# Python Geolocation Discord Webhook Script
+# 🐱💸 Project Title
 
-A simple Python script that collects basic system information (IP address, hostname, user profile) and sends it to a Discord webhook along with the IP's country of origin.
+![Money Cat](Moneycat.png)
 
-## Features
+A clean and minimal Python-based tool designed for simple network and system information display.
 
-- Retrieves the local machine's:
-  - IP address  
-  - Hostname  
-  - Windows user profile path
-- Gets the country of origin for the IP using a free geolocation API (`ip-api.com`)
-- Sends all information to a Discord webhook as a formatted message
-- Uses only **built-in Python modules** (`socket`, `os`, `urllib`, `json`)  
+---
 
-## Requirements
+## ✨ Features
+- Retrieves basic system info  
+- Shows hostname and user profile  
+- Simple IP lookup  
+- Easy to extend
 
-- Python 3.6+  
-- A Discord webhook URL
+---
 
-No external libraries required.
-
-## Usage
-
-1. **Clone or download** this repository.
-2. **Edit the script** to replace the placeholder `YOUR_WEBHOOK_URL` with your Discord webhook URL.
-3. **Run the script**:
-
+## 🚀 Usage
 ```bash
-python geolocation_webhook.py
+git clone https://github.com/Ragoon821/IP-Geolocator-for-Discord-Webhooks
+python script.py
