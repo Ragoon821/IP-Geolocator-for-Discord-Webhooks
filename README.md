@@ -18,6 +18,6 @@ A clean and minimal Python-based tool designed for simple network and system inf
 ```bash
 git clone https://github.com/Ragoon821/IP-Geolocator-for-Discord-Webhooks
 
-Change line 7 webhook_url = "YOUR WERBHOOK HERE" to your discord webhook
+Change line 9 webhook_url = "YOUR WERBHOOK HERE" to your discord webhook
 
 Put on target system and execute
