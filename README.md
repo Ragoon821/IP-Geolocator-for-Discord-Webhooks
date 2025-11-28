@@ -11,6 +11,7 @@ A clean and minimal Python-based tool designed for simple network and system inf
 - Shows hostname and user profile  
 - Simple IP lookup  
 - Easy to extend
+- Crosschecks Geolocation Info
 
 ---
 
