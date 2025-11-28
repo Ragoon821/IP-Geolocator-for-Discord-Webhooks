@@ -1,4 +1,4 @@
-# 🐱💸 IP Geolocation for post exploiation testing
+# 🐱💸 IP Geolocation for post exploitation testing
 
 ![Money Cat](Moneycat.png)
 
